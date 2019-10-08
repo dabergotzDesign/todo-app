@@ -1,0 +1,17 @@
+@import "../../node_modules/bootstrap/scss/bootstrap.scss";
+
+body {
+  margin: 1rem;
+}
+
+.header {
+  margin-bottom: 1rem;
+}
+
+.todo-item {
+  background: rgb(62, 126, 199);
+  margin: 4px;
+  padding: 2px;
+  border: 1px solid rgb(1, 27, 29);
+  border-radius: 10px;
+}
